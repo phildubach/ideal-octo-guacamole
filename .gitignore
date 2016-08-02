@@ -1,4 +1,6 @@
 .DS_Store
+.pioenvs
+.travis.yml
 applet
 application.linux32
 application.linux64
